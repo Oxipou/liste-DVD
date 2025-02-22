@@ -30,7 +30,7 @@
 | Bruce Lee - La fureur du dragon                 |
 | Bruce Lee - Le jeu de la mort                   |
 | Bruce Lee - Opération dragon *(disque 1 et 2)*  |
-| Bruno Manser - Laki Penan                        |
+| Bruno Manser - Laki Penan                       |
 
 ## Lettres *C*
 
