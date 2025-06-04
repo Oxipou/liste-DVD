@@ -4,7 +4,7 @@ Catalogue familial de DVD classés par ordre alphabétique, pour vérifier rapid
 
 ## Description
 
-Ce dépôt GitHub contient la liste des DVD familiaux ([ici](./listes-DVD/liste-DVD.md)).
+Ce dépôt GitHub contient la liste des DVD familiaux ([ici](./listes-DVD/liste-DVD.md#liste-dvd)).
 Les DVD sont triés par ordre alphabétique : cette liste permet de vérifier rapidement si un DVD est présent, et si oui, sous quelle lettre il est classé (le classement peut varier selon les choix de chacun).
 
 > [!NOTE]
