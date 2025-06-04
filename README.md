@@ -1,5 +1,7 @@
 # Liste DVD
 
+Catalogue familial de DVD classés par ordre alphabétique, pour vérifier rapidement si un film est dans la collection et le retrouver facilement.
+
 ## Description
 
 Ce dépôt GitHub contient la liste des DVD familiaux ([ici](./listes-DVD/liste-DVD.md)).
