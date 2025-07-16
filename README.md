@@ -18,6 +18,12 @@ Les DVD sont triés par ordre alphabétique : cette liste permet de vérifier ra
   - [liste-DVD.pdf](./listes-DVD/liste-DVD.pdf) : pour l’impression
 - *etc.*
 
+<!--
+Pour passer de .pages à .md :
+Exportez le fichier .pages au format RTF via Apple Pages, puis utilisez un outil de conversion comme celui-ci pour passer de RTF à Markdown :
+https://products.aspose.app/words/conversion/rtf-to-md#
+-->
+
 ## Licence
 
 Le contenu de ce dépôt est placé dans le domaine public via la licence [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" alt="CC0" width="15" />  
