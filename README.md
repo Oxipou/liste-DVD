@@ -8,17 +8,21 @@ Ce dépôt GitHub contient la liste des DVD familiaux ([ici](./listes-DVD/liste-
 Les DVD sont triés par ordre alphabétique : cette liste permet de vérifier rapidement si un DVD est présent, et si oui, sous quelle lettre il est classé (le classement peut varier selon les choix de chacun).
 
 > [!NOTE]
-> Si vous ne trouvez pas un film dans cette liste, pensez à consulter la bibliothèque ([ici](https://bib.rero.ch/rbnj/)).
+> Si vous ne trouvez pas un film dans cette liste, pensez à consulter le catalogue de la bibliothèque ([ici](https://bib.rero.ch/rbnj/)).
 
+## Guide d'utilisation (tuto)
+
+
+
+<!--
 ## Contenu
 
 - La liste des DVD est disponible sous différents formats :  
   - [liste-DVD.pages](./listes-DVD/liste-DVD.pages) : pour l’édition
   - [liste-DVD.md](./listes-DVD/liste-DVD.md) : pour l’affichage sur GitHub
   - [liste-DVD.pdf](./listes-DVD/liste-DVD.pdf) : pour l’impression
-- *etc.*
 
-<!--
+
 Pour passer de .pages à .md :
 Exportez le fichier .pages au format RTF via Apple Pages, puis utilisez un outil de conversion comme celui-ci pour passer de RTF à Markdown :
 https://products.aspose.app/words/conversion/rtf-to-md#
