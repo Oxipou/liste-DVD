@@ -39,7 +39,7 @@
 | Babe — cochon dans la ville                          |
 | Baby boss                                            |
 | Babylon                                              |
-| Bellerina                                            |
+| Ballerina                                            |
 | Barbapapa — Barbabelle joue à la princesse !         |
 | Barbapapa — Barbouille joue à l’artiste !            |
 | Barbapapa — La naissance des Barbapapa *(3 disques)* |
@@ -52,7 +52,7 @@
 | Batman, the dark knight 1 — Batman begins            |
 | Batman, the dark knight 3 — The dark knight rises    |
 | Bee movie                                            |
-| Belle & Sébastien — Saison 3 *[3 disque]*            |
+| Belle & Sébastien — Saison 3 *[3 disques]*           |
 | Benedetta                                            |
 | Bernard et Bianca au pays des kangourous             |
 | Bienvenue à Gattaca                                  |
@@ -149,7 +149,7 @@
 | Freddy 3 — Les griffes du cauchemar            |
 | Freddy 4 — Le cauchemar de Freddy              |
 | Freddy 5 — L’enfant du cauchemar               |
-| Freddy 6 — Le fin de Freddy                    |
+| Freddy 6 — La fin de Freddy                    |
 | Freddy 7 — Freddy sort de la nuit              |
 | Frère des ours                                 |
 | Full metal jacket                              |
@@ -317,106 +317,106 @@
 
 ### Le
 
-| Le                                                                                    |
-|:--------------------------------------------------------------------------------------|
-| Le blob                                                                               |
-| Le bon la brute et le truand *(disque 1 et 2)*                                        |
-| Le bossu de Notre Dame                                                                |
-| Le chat du rabbin                                                                     |
-| Le Chat Potté                                                                         |
-| Le château ambulant *[Hayao Miyazaki, Ghibli]*                                        |
-| Le château dans le ciel *[Hayao Miyazaki, Ghibli]*                                    |
-| Le cirque *(film et bonus)* *[Charlie Chaplin]*                                       |
-| Le conte de la princesse Kaguya *[Isao Takahata, Ghibli]*                             |
-| Le dernier loup                                                                       |
-| Le dictateur *[Charlie Chaplin]*                                                      |
-| Le dîner de cons                                                                      |
-| Le fabuleux destin d’Amelie Poulain                                                   |
-| Le facteur                                                                            |
-| Le Garçon et le Héron *(film et bonus)* *[Hayao Miyazaki, Ghibli]*                    |
-| Légendes d’automne                                                                    |
-| LEGO Batman — Le film                                                                 |
-| Le grand cahier                                                                       |
-| Le Hobbit 1 — Un voyage inattendu                                                     |
-| Le Hobbit 2 — la désolation de Smaug                                                  |
-| Le Hobbit — La bataille des cinq armées                                               |
-| Le jeu de la mort + Le temps de cerveau disponible                                    |
-| Le jeu de la mort *[Bruce Lee]*                                                       |
-| Le labyrinthe de pan                                                                  |
-| Le livre de la jungle *(film et bonus)*                                               |
-| Le livre de la jungle 2                                                               |
-| Le livre de la jungle — live action                                                   |
-| Le loup de Wall Street                                                                |
-| Le merveilleux voyage de Nils Holgersson au pays des ois sauvages *(épisodes 1 à 13)* |
-| Le monde de Narnia 3 — L’odyssée du passeur d’aurore                                  |
-| Le monde de Nemo *[Pixar] (film et bonus)*                                            |
-| L’enlèvement de Michel Houellebecq                                                    |
-| Le Nom de la Rose *(film et bonus)*                                                   |
-| Le pari                                                                               |
-| Le père Noël est une ordure                                                           |
-| Le petit Nicolas — saison 1 *(5 disques)*                                             |
-| Le petit Nicolas — saison 2, volume 3                                                 |
-| Le petit Nicolas — le film                                                            |
-| Le petit Nicolas 2 — Les vacances du petite Nicolas                                   |
-| Le Petit Prince                                                                       |
-| Le premier jour du reste de ta vie                                                    |
-| Le règne animal                                                                       |
-| Le roi lion                                                                           |
-| Le roi lion 2 — l’honneur de la tribu                                                 |
-| Le roi lion3 — Hakuna matata                                                          |
-| Les bronzés                                                                           |
-| Les bronzés font du ski                                                               |
-| Les bronzés 3 Amis pour la vie *(film et bonus)*                                      |
-| Les choristes                                                                         |
-| Les Croods                                                                            |
-| Les Croods 2                                                                          |
-| Les dents de la mer                                                                   |
-| Le septième fils                                                                      |
-| Le silence des agneaux                                                                |
-| Les fabuleuses rencontres de Maya l’Abaille                                           |
-| Les minions *[Moi moche et méchant]*                                                  |
-| Les mondes de Ralph                                                                   |
-| Les nouveaux héros                                                                    |
-| Les pingouins de Madagascar — Le film                                                 |
-| Les rois mages                                                                        |
-| Les Schtroumpfs                                                                       |
-| Les Schtroumpfs 2                                                                     |
-| Les Schtroumpfs — Amoureux                                                            |
-| Les Schtroumpfs — Hallowen                                                            |
-| Les Schtroumpfs — La magie                                                            |
-| Les temps modernes *(film et bonus)* *[Charlie Chaplin]*                              |
-| Les triplettes de belleville                                                          |
-| Les trois frères                                                                      |
-| Les trois frères le retour                                                            |
-| Les tuches 1                                                                          |
-| Les tuches 2                                                                          |
-| Les tuches 3                                                                          |
-| Les tuches 4                                                                          |
-| Les visiteurs                                                                         |
-| Les 101 dalmatiens                                                                    |
-| Les 101 dalmatiens 2 — Sur la trace des héros                                         |
-| Le temps des gitans *(film et bonus)*                                                 |
-| Le tombeau des lucioles *(film et bonus)* *[Isao Takahata, Ghibli]*                   |
-| L’étrange pouvoir de Norman                                                           |
-| L’étreinte du serpent                                                                 |
-| Letters from Iwo Jima *(disque 1 et 2)*                                               |
-| L’evangile selon st Matthieu                                                          |
-| Le vent se lève *[Hayao Miyazaki, Ghibli]*                                            |
-| Le vieil homme et la mer                                                              |
-| Le village                                                                            |
-| Le voyage d’Arlo *[Pixar]*                                                            |
-| Le voyage de Chihiro *[Hayao Miyazaki, Ghibli]*                                       |
-| L’Histoire sans fin                                                                   |
-| L’île au trésor                                                                       |
-| Lion                                                                                  |
-| Logan                                                                                 |
-| Loin des hommes                                                                       |
-| Lolita                                                                                |
-| Loulou — l’incroyable secret                                                          |
-| Luca *[Pixar]*                                                                        |
-| Lucky Luke — La diligence                                                             |
-| Lucky Luke — Le film                                                                  |
-| Lucy                                                                                  |
+| Le                                                                                     |
+|:---------------------------------------------------------------------------------------|
+| Le blob                                                                                |
+| Le bon la brute et le truand *(disque 1 et 2)*                                         |
+| Le bossu de Notre Dame                                                                 |
+| Le chat du rabbin                                                                      |
+| Le Chat Potté                                                                          |
+| Le château ambulant *[Hayao Miyazaki, Ghibli]*                                         |
+| Le château dans le ciel *[Hayao Miyazaki, Ghibli]*                                     |
+| Le cirque *(film et bonus)* *[Charlie Chaplin]*                                        |
+| Le conte de la princesse Kaguya *[Isao Takahata, Ghibli]*                              |
+| Le dernier loup                                                                        |
+| Le dictateur *[Charlie Chaplin]*                                                       |
+| Le dîner de cons                                                                       |
+| Le fabuleux destin d’Amelie Poulain                                                    |
+| Le facteur                                                                             |
+| Le Garçon et le Héron *(film et bonus)* *[Hayao Miyazaki, Ghibli]*                     |
+| Légendes d’automne                                                                     |
+| LEGO Batman — Le film                                                                  |
+| Le grand cahier                                                                        |
+| Le Hobbit 1 — Un voyage inattendu                                                      |
+| Le Hobbit 2 — la désolation de Smaug                                                   |
+| Le Hobbit — La bataille des cinq armées                                                |
+| Le jeu de la mort + Le temps de cerveau disponible                                     |
+| Le jeu de la mort *[Bruce Lee]*                                                        |
+| Le labyrinthe de pan                                                                   |
+| Le livre de la jungle *(film et bonus)*                                                |
+| Le livre de la jungle 2                                                                |
+| Le livre de la jungle — live action                                                    |
+| Le loup de Wall Street                                                                 |
+| Le merveilleux voyage de Nils Holgersson au pays des oies sauvages *(épisodes 1 à 13)* |
+| Le monde de Narnia 3 — L’odyssée du passeur d’aurore                                   |
+| Le monde de Nemo *[Pixar] (film et bonus)*                                             |
+| L’enlèvement de Michel Houellebecq                                                     |
+| Le Nom de la Rose *(film et bonus)*                                                    |
+| Le pari                                                                                |
+| Le père Noël est une ordure                                                            |
+| Le petit Nicolas — saison 1 *(5 disques)*                                              |
+| Le petit Nicolas — saison 2, volume 3                                                  |
+| Le petit Nicolas — le film                                                             |
+| Le petit Nicolas 2 — Les vacances du petit Nicolas                                     |
+| Le Petit Prince                                                                        |
+| Le premier jour du reste de ta vie                                                     |
+| Le règne animal                                                                        |
+| Le roi lion                                                                            |
+| Le roi lion 2 — l’honneur de la tribu                                                  |
+| Le roi lion 3 — Hakuna matata                                                          |
+| Les bronzés                                                                            |
+| Les bronzés font du ski                                                                |
+| Les bronzés 3 Amis pour la vie *(film et bonus)*                                       |
+| Les choristes                                                                          |
+| Les Croods                                                                             |
+| Les Croods 2                                                                           |
+| Les dents de la mer                                                                    |
+| Le septième fils                                                                       |
+| Le silence des agneaux                                                                 |
+| Les fabuleuses rencontres de Maya l’Abaille                                            |
+| Les minions *[Moi moche et méchant]*                                                   |
+| Les mondes de Ralph                                                                    |
+| Les nouveaux héros                                                                     |
+| Les pingouins de Madagascar — Le film                                                  |
+| Les rois mages                                                                         |
+| Les Schtroumpfs                                                                        |
+| Les Schtroumpfs 2                                                                      |
+| Les Schtroumpfs — Amoureux                                                             |
+| Les Schtroumpfs — Halloween                                                            |
+| Les Schtroumpfs — La magie                                                             |
+| Les temps modernes *(film et bonus)* *[Charlie Chaplin]*                               |
+| Les triplettes de belleville                                                           |
+| Les trois frères                                                                       |
+| Les trois frères le retour                                                             |
+| Les tuches 1                                                                           |
+| Les tuches 2                                                                           |
+| Les tuches 3                                                                           |
+| Les tuches 4                                                                           |
+| Les visiteurs                                                                          |
+| Les 101 dalmatiens                                                                     |
+| Les 101 dalmatiens 2 — Sur la trace des héros                                          |
+| Le temps des gitans *(film et bonus)*                                                  |
+| Le tombeau des lucioles *(film et bonus)* *[Isao Takahata, Ghibli]*                    |
+| L’étrange pouvoir de Norman                                                            |
+| L’étreinte du serpent                                                                  |
+| Letters from Iwo Jima *(disque 1 et 2)*                                                |
+| L’evangile selon st Matthieu                                                           |
+| Le vent se lève *[Hayao Miyazaki, Ghibli]*                                             |
+| Le vieil homme et la mer                                                               |
+| Le village                                                                             |
+| Le voyage d’Arlo *[Pixar]*                                                             |
+| Le voyage de Chihiro *[Hayao Miyazaki, Ghibli]*                                        |
+| L’Histoire sans fin                                                                    |
+| L’île au trésor                                                                        |
+| Lion                                                                                   |
+| Logan                                                                                  |
+| Loin des hommes                                                                        |
+| Lolita                                                                                 |
+| Loulou — l’incroyable secret                                                           |
+| Luca *[Pixar]*                                                                         |
+| Lucky Luke — La diligence                                                              |
+| Lucky Luke — Le film                                                                   |
+| Lucy                                                                                   |
 
 ## Lettres *M*
 
@@ -431,9 +431,9 @@
 | Mano Negra — Out of time *(disque 1 et 2)*              |
 | Marie Madeleine                                         |
 | Mars attacks!                                           |
-| Masrsupilami — Cache-cache en palombie                  |
-| Masrsupilami — Houbacadabra                             |
-| Masrsupilami — L’aventurier                             |
+| Marsupilami — Cache-cache en palombie                   |
+| Marsupilami — Houbacadabra                              |
+| Marsupilami — L’aventurier                              |
 | Mary à tout prix                                        |
 | Mary et Max.                                            |
 | Massacre à la tronçonneuse                              |
@@ -500,12 +500,12 @@
 | Peter Pan                                              |
 | Pieta *(film et bonus)*                                |
 | Pingu — Le meilleur 2                                  |
-| Pinocchion                                             |
+| Pinocchio                                              |
 | Pirates des Caraïbes 1 — La malédiction du black pearl |
 | Pirates des Caraïbes 2 — Le secret du coffre maudit    |
 | Pirates des Caraïbes 3 — Jusqu’au bout du monde        |
-| Pirates des Caraïbes 4 — La fontaine de jonvence       |
-| Pirates des Caraïbes 5 — Le vengeance de Salazar       |
+| Pirates des Caraïbes 4 — La fontaine de jouvence       |
+| Pirates des Caraïbes 5 — La vengeance de Salazar       |
 | Pocahontas — une légende indienne                      |
 | Ponyo sur la falaise *[Hayao Miyazaki, Ghibli]*        |
 | Porcherie                                              |
@@ -547,7 +547,7 @@
 | S                                                                    |
 |:---------------------------------------------------------------------|
 | Salo ou les 120 journées de sodome                                   |
-| Samy — Le voyage estraordinaire de Samy                              |
+| Samy — Le voyage extraordinaire de Samy                              |
 | Sammy 2 *(en 2D et 3D)*                                              |
 | Sauvez Willy                                                         |
 | Sauvez Willy 2                                                       |
@@ -558,8 +558,8 @@
 | Scooby — Le film                                                     |
 | Shame                                                                |
 | Shanghaï kid                                                         |
-| Shaun le monton — Le film                                            |
-| Shaun le monton — saison 1 *(2 disques)*                             |
+| Shaun le mouton — Le film                                            |
+| Shaun le mouton — saison 1 *(2 disques)*                             |
 | Shining                                                              |
 | Shrek                                                                |
 | Shutter island                                                       |
@@ -574,7 +574,7 @@
 | Spider-man — No way home                                             |
 | Starship troopers                                                    |
 | Star Wars 7 — Le réveil de la force                                  |
-| Star Wars 8 — Les dernier jedi                                       |
+| Star Wars 8 — Les derniers jedi                                      |
 | Star Wars 9 — L’ascension de skywalker                               |
 | Star Wars — Rogue One                                                |
 | Star Wars LEGO — la menace padawan                                   |
@@ -585,11 +585,11 @@
 | Striptease vol. 3                                                    |
 | Suicide Squad                                                        |
 | Superman — man of steel                                              |
-| Sur écoute — saison 1 (*5 disques)*                                  |
-| Sur écoute — saison 2 (*5 disques)*                                  |
-| Sur écoute — saison 3 (*5 disques)*                                  |
-| Sur écoute — saison 4 (*5 disques)*                                  |
-| Sur écoute — saison 5 (4 *disques)*                                  |
+| Sur écoute — saison 1 *(5 disques)*                                  |
+| Sur écoute — saison 2 *(5 disques)*                                  |
+| Sur écoute — saison 3 *(5 disques)*                                  |
+| Sur écoute — saison 4 *(5 disques)*                                  |
+| Sur écoute — saison 5 *(4 disques)*                                  |
 | Sur la piste du Marsupilami *[film et bonus]*                        |
 | Sur la route des enfoirés *(2 disques)*                              |
 | Sur la terre des dinosaures                                          |
@@ -714,7 +714,7 @@
 | Ze inconnus story vol 3 — Le bôcoup meilleur |
 | Ze inconnus story vol 4 — La suite           |
 | Ze inconnus story vol 5 — Le bôcoup meilleur |
-| Zidane un portait du 21e siècle              |
+| Zidane un portrait du 21e siècle             |
 | Zootopie                                     |
 
 ## Chiffres
@@ -729,3 +729,4 @@
 | 20’000 jours sur Terre                                  |
 | 2001 : l’odyssée de l’espace                            |
 | 24 heures avant la nuit                                 |
+
