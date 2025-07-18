@@ -14,19 +14,24 @@ Les DVD sont triés par ordre alphabétique : cette liste permet de vérifier ra
 
 
 
-<!--
-## Contenu
+## La liste aux différents formats
 
 - La liste des DVD est disponible sous différents formats :  
   - [liste-DVD.pages](./listes-DVD/liste-DVD.pages) : pour l’édition
   - [liste-DVD.md](./listes-DVD/liste-DVD.md) : pour l’affichage sur GitHub
   - [liste-DVD.pdf](./listes-DVD/liste-DVD.pdf) : pour l’impression
+  - [liste-DVD.rtf](./listes-DVD/liste-DVD.rtf) : pour la conversion
 
-
-Pour passer de .pages à .md :
-Exportez le fichier .pages au format RTF via Apple Pages, puis utilisez un outil de conversion comme celui-ci pour passer de RTF à Markdown :
+> [!NOTE]
+> Pour passer de .pages à .md :
+> Exportez le fichier .pages au format RTF via Apple Pages, puis utilisez un outil de conversion comme celui-ci pour passer de RTF à Markdown :
 https://products.aspose.app/words/conversion/rtf-to-md#
--->
+> 1. exportez le fichier .pages au format RTF via Apple Pages
+> 2. utilisez un outil de conversion comme [celui-ci](https://products.aspose.app/words/conversion/rtf-to-md#) pour passer de RTF à Markdown
+> 3. corriger le formattage du fichier, notamment:
+>    - mettre tous les titres et sous-titres correctement
+>    - mettre les premières lignes des tableaux avec la lettre (et déplacer le premier film)
+>    - avec l'extension “learn markdown”, formatter les tableaux pour que ce soit plus lisible
 
 ## Licence
 
