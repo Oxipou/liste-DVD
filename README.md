@@ -4,15 +4,21 @@ Catalogue familial de DVD classés par ordre alphabétique, pour vérifier rapid
 
 ## Description
 
-Ce dépôt GitHub contient la liste des DVD familiaux ([ici](./listes-DVD/liste-DVD.md#liste-dvd)).
+Ce dépôt GitHub contient la liste des DVD familiaux.
 Les DVD sont triés par ordre alphabétique : cette liste permet de vérifier rapidement si un DVD est présent, et si oui, sous quelle lettre il est classé (le classement peut varier selon les choix de chacun).
+
+## Guide d'utilisation
+
+Il y a moult façons de consulter la liste de DVD. Premièrement, il est simplement possible de regarder la version imprimée, qui est dans le classeur un peu transparent. Mais comme le classement peut varier selon les choix (sans compter que des films ont différents titres possibles en plusieurs langues), la liste est aussi disponible sur ce dépôt GitHub, [ici](./listes-DVD/liste-DVD.md#liste-dvd).
+
+Si vous consultez la version numérique, il y a plusieurs petites choses qui pourraient vous faciliter la recherche. Même si c'est plutôt connu, je rappelle que *⌘ + F* (ou *ctrl + F* sur windows/linux) permet, sur ordinateur, de rechercher un ou des mots dans la liste. Pour les téléphones voici une vidéo pour faire la même chose sur iOS (safari) [ici](www.à-rajouter.ch) et une autre pour Android (google chrome) [ici](www.à-rajouter.ch) (la première vidéo montre plein d'exemples d'utilisation alors que la deuxième ne montre que comment utiliser l'outil recherche). Puis j'ai mis des mots clés entre crochets et en italiques après certains titre, qui permettent aussi de faire des recherches comment ça (par exemple il y a *[Pixar]*, *[Charlie Chaplin]* ou *[Hayao Miyazaki]*).
+
+Sinon pour les enfants il y a aussi le classeur avec les pochettes de DVD.
+
+Et pour finir la simple méthode de directement regarder dans les tiroirs à DVD, qui sont aussi rangés dans le même ordre… mais c'est probablement la solution la plus fastidieuse.
 
 > [!NOTE]
 > Si vous ne trouvez pas un film dans cette liste, pensez à consulter le catalogue de la bibliothèque ([ici](https://bib.rero.ch/rbnj/)).
-
-## Guide d'utilisation (tuto)
-
-
 
 ## La liste aux différents formats
 
