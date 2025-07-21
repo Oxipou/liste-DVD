@@ -52,7 +52,7 @@
 | Batman, the dark knight 1 — Batman begins            |
 | Batman, the dark knight 3 — The dark knight rises    |
 | Bee movie                                            |
-| Belle & Sébastien — Saison 3 *[3 disques]*           |
+| Belle & Sébastien — Saison 3 *(3 disques)*           |
 | Benedetta                                            |
 | Bernard et Bianca au pays des kangourous             |
 | Bienvenue à Gattaca                                  |
@@ -299,7 +299,7 @@
 | La maison de Mickey — Mickey dans l’espace             |
 | La Mauvaise Éducation                                  |
 | La montagne sacrée *(film et bonus)*                   |
-| La mule *[Blu-ray]*                                    |
+| La mule *(Blu-ray)*                                    |
 | La nuit au musée                                       |
 | La nuit au musée 2                                     |
 | La petite sirène                                       |
@@ -349,7 +349,7 @@
 | Le loup de Wall Street                                                                 |
 | Le merveilleux voyage de Nils Holgersson au pays des oies sauvages *(épisodes 1 à 13)* |
 | Le monde de Narnia 3 — L’odyssée du passeur d’aurore                                   |
-| Le monde de Nemo *[Pixar] (film et bonus)*                                             |
+| Le monde de Nemo *(film et bonus)* *[Pixar]*                                           |
 | L’enlèvement de Michel Houellebecq                                                     |
 | Le Nom de la Rose *(film et bonus)*                                                    |
 | Le pari                                                                                |
@@ -536,7 +536,7 @@
 | Rio                               |
 | Rio 2                             |
 | Rio fun DVD                       |
-| Rockers it’ dangerous *[Blu-ray]* |
+| Rockers it’ dangerous *(Blu-ray)* |
 | Rock n roll                       |
 | Romeo & Juliette                  |
 | Romeo + Juliette                  |
@@ -548,7 +548,7 @@
 |:---------------------------------------------------------------------|
 | Salo ou les 120 journées de sodome                                   |
 | Samy — Le voyage extraordinaire de Samy                              |
-| Sammy 2 *(en 2D et 3D)*                                              |
+| Sammy 2 *(2D et 3D)*                                                 |
 | Sauvez Willy                                                         |
 | Sauvez Willy 2                                                       |
 | Sauvez Willy 3 — La poursuite                                        |
@@ -590,7 +590,7 @@
 | Sur écoute — saison 3 *(5 disques)*                                  |
 | Sur écoute — saison 4 *(5 disques)*                                  |
 | Sur écoute — saison 5 *(4 disques)*                                  |
-| Sur la piste du Marsupilami *[film et bonus]*                        |
+| Sur la piste du Marsupilami *(film et bonus)*                        |
 | Sur la route des enfoirés *(2 disques)*                              |
 | Sur la terre des dinosaures                                          |
 | Sur le chemin de l'école                                             |
@@ -683,7 +683,7 @@
 |:----------------------------------------------------------------|
 | Wallace & Gromit                                                |
 | Wallace & Gromit — Le mystère du lapin-garou                    |
-| War photographer *[James Nachtwey] (2 versions de sous-titres)* |
+| War photographer *(2 versions de sous-titres) [James Nachtwey]* |
 | When we were kings                                              |
 | Will hunting                                                    |
 | Wolverine — Le combat de l’immortel                             |
