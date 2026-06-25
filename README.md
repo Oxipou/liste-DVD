@@ -43,5 +43,5 @@ https://products.aspose.app/words/conversion/rtf-to-md#
 
 ## Licence
 
-Le contenu de ce dépôt est placé dans le domaine public via la licence [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" alt="CC0" width="15" />  
+Le contenu de ce dépôt est placé dans le domaine public via la licence [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). <img src="https://mirrors.creativecommons.org/presskit/icons/cc.png" alt="cc" width="15" /> <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" alt="CC0" width="15" />  
 Vous pouvez l'utiliser, le modifier et le redistribuer librement, sans aucune condition.
