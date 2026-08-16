@@ -101,6 +101,7 @@
 | Demain tout commence       |
 | Démineurs                  |
 | Dernière marche            |
+| Der Prozess                |
 | Des souris et des hommes   |
 | Didier                     |
 | Django unchained           |
@@ -112,6 +113,7 @@
 | Drive                      |
 | Drôles de dindes           |
 | Dub echoes                 |
+| Dumb and dumber            |
 | Dune 1                     |
 
 ## Lettres *E*
@@ -209,6 +211,7 @@
 | Il était une fois la révolution *(disque 1 et 2)* |
 | Incassable                                        |
 | Incendies                                         |
+| Interstellar *[Christopher Nolan]*                |
 | Intouchables *(film et bonus)*                    |
 | Into the wild                                     |
 | Iron Man 2                                        |
@@ -311,6 +314,7 @@
 | La ruée vers l’or *[Charlie Chaplin]*                  |
 | La route                                               |
 | La soupe aux choux                                     |
+| La tortue rouge *[Ghibli]*                             |
 | L’aventure c’est l’aventure *[Claude Lelouch]*         |
 | La vie des autres                                      |
 | La zone d’intérêt                                      |
@@ -326,6 +330,7 @@
 | Le Chat Potté                                                                          |
 | Le château ambulant *[Hayao Miyazaki, Ghibli]*                                         |
 | Le château dans le ciel *[Hayao Miyazaki, Ghibli]*                                     |
+| Le château de Cagliostro *(DVD et Blue-ray) [Hayao Miyazaki, Ghibli]*                  |
 | Le cirque *(film et bonus)* *[Charlie Chaplin]*                                        |
 | Le conte de la princesse Kaguya *[Isao Takahata, Ghibli]*                              |
 | Le dernier loup                                                                        |
@@ -361,6 +366,7 @@
 | Le Petit Prince                                                                        |
 | Le premier jour du reste de ta vie                                                     |
 | Le règne animal                                                                        |
+| Le robot sauvage                                                                       |
 | Le roi lion                                                                            |
 | Le roi lion 2 — l’honneur de la tribu                                                  |
 | Le roi lion 3 — Hakuna matata                                                          |
@@ -529,6 +535,7 @@
 | Raiponce                          |
 | Rango                             |
 | Ratatouille *[Pixar]*             |
+| Rencontre avec Joe Black          |
 | Retour vers le future I           |
 | Retour vers le future II          |
 | Retour vers le future III         |
@@ -622,6 +629,7 @@
 | The big Lebowski                                                                            |
 | The blues brothers *(film et bonus)*                                                        |
 | The clash live — Revolution rock                                                            |
+| The doors                                                                                   |
 | The great rock ’n’ roll swindle                                                             |
 | The harder they come                                                                        |
 | The kid *[Charlie Chaplin]*                                                                 |
